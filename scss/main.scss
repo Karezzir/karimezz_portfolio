@@ -33,6 +33,16 @@ h3 {
   }
 }
 
+.company-title {
+  color: $secondary-color;
+  font-size: 130%;
+}
+
+.job-title {
+  color: lighten($secondary-color, 20);
+  font-size: 90%;
+}
+
 a {
   color: #fff;
   text-decoration: none;
