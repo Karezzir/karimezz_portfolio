@@ -54,7 +54,7 @@
     transition: all 0.5s ease-out; }
     .menu-branding.show {
       transform: translate3d(0, 0, 0); }
-    .menu-branding .portrait {
+    .menu-branding .menu-portrait {
       width: 250px;
       height: 250px;
       border-radius: 50%;
